@@ -8,3 +8,5 @@ https://github.com/Rami-Pastrami/VRC_SLT_Docs/assets/25966197/be630e0f-6546-48e7
 I hope for this to one day be a useful tool for practicing sign language vocabulary, such as for creating vocab games. But, to actually learn how to sign properly in conversation, you will need to dig deeper into the grammar rules and practice with fellow human beings, just as you would when learning any other spoken / written language. _ANYONE who says this systems or systems like this can replace sign language interpreters frankly have no clue what they are talking about._
 
 **Once in a releasable state and past testing, VRC_SLT will be made fully open source and free to use! For now Only this documentation shall be visible!**
+
+Feel free to read the FAQ [HERE](https://github.com/Rami-Pastrami/VRC_SLT_Docs/blob/main/docs/FAQ.md)
